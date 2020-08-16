@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/hollyday/static/css/main.a25869f4.chunk.css",
+    "main.js": "/hollyday/static/js/main.837e4161.chunk.js",
+    "main.js.map": "/hollyday/static/js/main.837e4161.chunk.js.map",
+    "runtime-main.js": "/hollyday/static/js/runtime-main.8f842bab.js",
+    "runtime-main.js.map": "/hollyday/static/js/runtime-main.8f842bab.js.map",
+    "static/js/2.a04159d7.chunk.js": "/hollyday/static/js/2.a04159d7.chunk.js",
+    "static/js/2.a04159d7.chunk.js.map": "/hollyday/static/js/2.a04159d7.chunk.js.map",
+    "index.html": "/hollyday/index.html",
+    "precache-manifest.2bb04b838720fefa34dc9ee53faa186e.js": "/hollyday/precache-manifest.2bb04b838720fefa34dc9ee53faa186e.js",
+    "service-worker.js": "/hollyday/service-worker.js",
+    "static/css/main.a25869f4.chunk.css.map": "/hollyday/static/css/main.a25869f4.chunk.css.map",
+    "static/js/2.a04159d7.chunk.js.LICENSE.txt": "/hollyday/static/js/2.a04159d7.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.8f842bab.js",
+    "static/js/2.a04159d7.chunk.js",
+    "static/css/main.a25869f4.chunk.css",
+    "static/js/main.837e4161.chunk.js"
+  ]
+}
